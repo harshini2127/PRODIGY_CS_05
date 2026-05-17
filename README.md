@@ -59,7 +59,7 @@ git clone https://github.com/harshini2127/PRODIGY_CS_05.git
 
 ```bash
 cd PRODIGY_CS_05
-``
+```
 
 ## 3️⃣ Install Required Libraries
 
