@@ -52,7 +52,7 @@ More screenshots are available inside the `screenshots/` folder.
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_LINK>
+git clone https://github.com/harshini2127/PRODIGY_CS_05.git
 ```
 
 ## 2️⃣ Navigate to Project Folder
